@@ -2,7 +2,7 @@
 Functionality：
 This program has realized functionalities of getting orders from customers, and then the program calculates cooking time of each ordered food according to the following rules. The .exe and input file are under EXE directory. User can run FishAndChips.exe and will get output file. User can add new orders in Input.txt file according to the following explanation, and will get the corresponding different output.
 
-** Rules **
+**Rules**
 A restaurant sells fish and chips, and customers can order cod, haddock and chips. 
 -The cooking time span of one portion of cod is 80 seconds.
 -The cooking time span of one portion of haddock is 90 seconds.
