@@ -4,8 +4,8 @@ This program has realized functionalities of getting orders from customers, and 
 
 **Rules**
 A restaurant sells fish and chips, and customers can order cod, haddock and chips. 
--The cooking time span of one portion of cod is 80 seconds.
--The cooking time span of one portion of haddock is 90 seconds.
+- The cooking time span of one portion of cod is 80 seconds.
+- The cooking time span of one portion of haddock is 90 seconds.
 -The cooking time span of one portion of chips is 120 seconds.
 -4 portions of chips can be cooked at a time.
 -There are 4 individual hobs for cooking fish. Each hob can cook one portion of cod or haddock at a time.
